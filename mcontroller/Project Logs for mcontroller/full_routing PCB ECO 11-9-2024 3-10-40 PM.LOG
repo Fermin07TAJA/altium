@@ -1,0 +1,4 @@
+Added Component: Designator=A1(MCONT)
+Added Component: Designator=A2(MCONT)
+Added Member To Class: ClassName=main Member=Component A1 MCONT
+Added Member To Class: ClassName=main Member=Component A2 MCONT
