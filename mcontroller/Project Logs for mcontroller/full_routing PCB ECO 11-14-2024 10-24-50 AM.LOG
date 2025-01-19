@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=A1 NewDesignator=Y
+Change Component Designator: OldDesignator=A2 NewDesignator=X
+Change Component Designator: OldDesignator=A? NewDesignator=A
+Change Component Designator: OldDesignator=A? NewDesignator=Z
+Change Net Name : Old Net Name=NetA1_2 New Net Name=NetPWR_1
+Change Net Name : Old Net Name=NetA2_7 New Net Name=NetJ?_5
+Change Net Name : Old Net Name=NetA2_8 New Net Name=NetJ?_4
+Change Net Name : Old Net Name=NetA2_9 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetA2_10 New Net Name=NetJ?_1
+Added Member To Class: ClassName=main Member=Component A MCONT

@@ -1,0 +1,40 @@
+Added Component: Designator=J?(3M-929850-01-10-RA_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "929850-01-10-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://multimedia.3m.com/mws/media/22500O/3mtm-boardmount-skt-100-100x-100strt-sldr-tails-ts0815.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.3m.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Female Header, Pitch 2.54 mm, 1 x 10 Position, Height 8.26 mm, Tail Length 3.18 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "929850-01-10-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetA2_7 Pin=A2-7
+Added Pin To Net: NetName=NetA2_7 Pin=J?-5
+Added Net: Name=NetA2_7
+Added Pin To Net: NetName=NetA2_8 Pin=A2-8
+Added Pin To Net: NetName=NetA2_8 Pin=J?-4
+Added Net: Name=NetA2_8
+Added Pin To Net: NetName=NetA2_9 Pin=A2-9
+Added Pin To Net: NetName=NetA2_9 Pin=J?-2
+Added Net: Name=NetA2_9
+Added Pin To Net: NetName=NetA2_10 Pin=A2-10
+Added Pin To Net: NetName=NetA2_10 Pin=J?-1
+Added Net: Name=NetA2_10
+Added Member To Class: ClassName=main Member=Component A? MCONT
+Added Member To Class: ClassName=main Member=Component J? 929850-01-10-RA
